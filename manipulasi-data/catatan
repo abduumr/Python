@@ -1,0 +1,6 @@
+ini tuh niatkanya ada 2 sumber data.
+
+1 dari api
+1 dari database
+
+nanti setelah diambil datanya maka akan dimanimulasikan datanya antara API dan database, setelah datanya dimanipulasi maka akan disimpan nanti di database baru secara realtime
